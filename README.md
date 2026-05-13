@@ -1,4 +1,4 @@
-# CodeAlpha_SentimentAnalysis
+# CodeAlpha_Web Scraping
 
 CodeAlpha Internship Task 1 - Web Scraping & Books Dashboard
 
